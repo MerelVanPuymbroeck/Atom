@@ -12,9 +12,9 @@ You can share your workspace and edit codes together in real time.
 
 Pro's | Contra's 
 --- | --- 
- Cross-platform editing | It’s slow compared to Sublime Text.
-Smart autocompletion | It can't handle a lot of large files. 
-Multiple panes | atom browser features like thousands of small files.
+ Cross-platform editing. | It’s slow compared to Sublime Text.
+Smart autocompletion. | It can't handle a lot of large files. 
+Multiple panes. | atom browser features like thousands of small files.
 
 ###### Pro's explaining:
 1. Atom works across **operating systems.** Use it on OS X, Windows, or Linux.
