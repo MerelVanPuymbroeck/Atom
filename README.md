@@ -2,13 +2,13 @@
 
 [Atom Download](https://atom.io/)
 
-## Atom, who?  
+## Atom, who :question: 
 Atom is a teletype that makes collaborating on code just as easy as it is to code alone, right from your editor.  
 You can share your workspace and edit codes together in real time.
 
 > *" Great things happen when developers work together—from teaching and sharing knowledge to building better software. "*
 
-## Why we should use Atom?
+## Why we should use Atom :question:
 
 Pro's | Contra's 
 --- | --- 
