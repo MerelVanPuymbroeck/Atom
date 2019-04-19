@@ -1,4 +1,4 @@
-![alt text](download.png)
+![alt text](atom.png)
 
 [Here is the link where u can find CodePen](https://codepen.io/)
 
