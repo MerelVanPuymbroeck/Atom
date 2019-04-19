@@ -12,23 +12,23 @@ You can share your workspace and edit codes together in real time.
 
 Pro's | Contra's 
 --- | --- 
- Cross-platform editing|  
-Smart autocompletion | 
-Multiple panes | 
+ Cross-platform editing | It’s slow compared to Sublime Text.
+Smart autocompletion | It can't handle a lot of large files. 
+Multiple panes | atom browser features like thousands of small files.
 
 ###### Pro's explaining:
-1. Atom works across operating systems. Use it on OS X, Windows, or Linux.
-2. Atom helps you write code faster with a smart and flexible autocomplete.
-3. Split your Atom interface into multiple panes to compare and edit code across files.
+1. Atom works across **operating systems.** Use it on OS X, Windows, or Linux.
+2. Atom helps you write code faster with a smart and **flexible autocomplete.**
+3. **Split** your Atom interface into multiple panes to compare and edit code across files.
 
 ###### Contra's explainig:
 
-- [ ]  If u want to make a own private pen u need to pay for a pro version of CodePen otherwise its always public.
-- [ ]  In the free version of CodePen are the best tools not available.
-- [ ]  You can't go back in your history about wich codes u used in your project after you closed it. You only can ctrl + z.
+- [ ]  It takes a bit before Atom open's.
+- [ ]  It can be that Atom freezes sometimes when u got a large file. 
+- [ ]  That means that syncing takes a good couple minutes before it gonna work. 
 
 ## Why did I choose for Atom :question:
 
-* I used CodePen in my first year of my bachelor degree and I enjoyed it using it. 
-* It's user friendly, it got structure and its not difficult to use. 
-* Also is it verry handy that you immediately see what your code is doing or what it is not doing. 
+* It's FREE  
+* You got shortcuts so it makes it easier to code something
+* Nice design, active package (extension) community.
