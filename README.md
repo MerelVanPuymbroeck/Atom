@@ -27,7 +27,7 @@ Multiple panes |
 - [ ]  In the free version of CodePen are the best tools not available.
 - [ ]  You can't go back in your history about wich codes u used in your project after you closed it. You only can ctrl + z.
 
-## Why did I choose for CodePen?
+## Why did I choose for Atom :question:
 
 * I used CodePen in my first year of my bachelor degree and I enjoyed it using it. 
 * It's user friendly, it got structure and its not difficult to use. 
