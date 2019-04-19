@@ -8,18 +8,18 @@ You can share your workspace and edit codes together in real time.
 
 > *" Great things happen when developers work together—from teaching and sharing knowledge to building better software. "*
 
-## Why should you use CodePen?
+## Why we should use Atom?
 
 Pro's | Contra's 
 --- | --- 
- **Supports** a tons of flavors of HTML, CSS, and JavaScript. |  If you want a private pen u need to **pay** and **upgrading** to a Pro account.a
- You can **add tags** to your pens, which then become searchable. | The free version of Codepen has **ads** and requires **registration.**
- **Community** has been a huge part of CodePen since the beginning and you feel that. | **No** way to check **revision history.**
+ Cross-platform editing|  
+Smart autocompletion | 
+Multiple panes | 
 
 ###### Pro's explaining:
-1. For example u can use HAML, Markdown, Slim, or even Jade for HTML.
-2. Searching tags such as “Loader” and “Form” brings up tons of helpful inspiration. 
-3. Through comments and sharing, people can give and receive constructive criticism, and learn together.
+1. Atom works across operating systems. Use it on OS X, Windows, or Linux.
+2. Atom helps you write code faster with a smart and flexible autocomplete.
+3. Split your Atom interface into multiple panes to compare and edit code across files.
 
 ###### Contra's explainig:
 
@@ -32,5 +32,3 @@ Pro's | Contra's
 * I used CodePen in my first year of my bachelor degree and I enjoyed it using it. 
 * It's user friendly, it got structure and its not difficult to use. 
 * Also is it verry handy that you immediately see what your code is doing or what it is not doing. 
-
-![alt text](codepen.jpg)
