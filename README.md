@@ -1,14 +1,12 @@
 ![alt text](atom2.png)
 
-[Here is the link where u can find CodePen](https://codepen.io/)
+[Atom Download](https://atom.io/)
 
 ## Atom, who?  
+Atom is a teletype that makes collaborating on code just as easy as it is to code alone, right from your editor.  
+You can share your workspace and edit codes together in real time.
 
-CodePen allows you to write a code in the browser, and see the results of it as you build.  
-It is also a community, where people can share there code and leave comments on others code.  
-A single project on Codepen is called a ‘pen’. :memo:
-
-> *" We're trying to make CodePen a happy and healthy place for front-end designers and developers and the people looking for  them, while also being a damn fine place to code. " :heart:*
+> *" Great things happen when developers work together—from teaching and sharing knowledge to building better software. "*
 
 ## Why should you use CodePen?
 
